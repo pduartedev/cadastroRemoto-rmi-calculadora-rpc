@@ -48,6 +48,3 @@ Desenvolvido por [@pduartedev](https://github.com/pduartedev) & [@joao314159](ht
 Este projeto foi desenvolvido para fins educacionais como parte da disciplina de Sistemas Distribuídos.
 
 ---
-
-⭐ Se este projeto foi útil para você, considere dar uma estrela! 
-```
