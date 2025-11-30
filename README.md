@@ -41,7 +41,7 @@ Este projeto foi desenvolvido com os seguintes objetivos educacionais:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [@pduartedev](https://github.com/pduartedev) & [@joao314159](https://github.com/@joao314159)
+Desenvolvido por [@pduartedev](https://github.com/pduartedev) & [@joao314159](https://github.com/joao314159)
 
 ## 📄 Licença
 
